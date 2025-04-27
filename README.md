@@ -19,5 +19,5 @@ This project fetches a threat intelligence feed (simulated TAXII 2.1 server) and
 - Displays extracted IOCs (patterns, types, timestamps)
 
 ## 🎯 Author
-- Name: Your Name
-- LinkedIn: [Your LinkedIn Profile]
+- Name: Haris Ali
+- LinkedIn: [www.linkedin.com/in/harisali-cyberdude]
